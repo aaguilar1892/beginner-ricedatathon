@@ -1,0 +1,7 @@
+[project]
+name = "beginner-ricedatathon"
+version = "0.1.0"
+description = "Data Science project for the Rice Datathon - Beginner Track"
+readme = "README.md"
+requires-python = "===3.12.8"
+dependencies = []
